@@ -68,7 +68,7 @@ export default function Layout({ children, home }) {
                 <a>
                   <Image
                     priority
-                    src="/images/profile.jpg"
+                    src="/images/geego_peaking.HEIC"
                     className={utilStyles.navImage}
                     height={60}
                     width={60}

@@ -1,7 +1,7 @@
 ---
 title: 'Gumbo'
 date: '2022-05-12'
-image: '/images/gumo_leg.HEIC'
+image: '/images/gumbo_leg.HEIC'
 ---
 
 # Gumbo
