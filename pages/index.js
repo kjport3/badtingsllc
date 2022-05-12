@@ -93,13 +93,7 @@ export default function Home({ allPostsData }) {
           </ul>
         </div>
         <p>
-          Hello! My name is Kenny Porterfield and I am a web developer living in
-          Atlanta, Georgia. I like to spend my time running, reading, learning,
-          and growing as a developer. Fun facts about me: I have run an average
-          of over 2,000 miles a year for the last 5 years. In 2014 I thru-hiked
-          the 2,200 miles of the Appalachian Trail over 4 months. I read 70
-          books last year. And I am currently a Senior Campaign Developer at
-          Digital Additive.{" "}
+          Well hello there! It looks like you've made it to Bad Tings, LLC. We specialize in Bad Tings of course. You may ask, "Well hey there guy, are 'bad tings'?" The answer my seem obvious at first, but it can cover a wide variety of tings. It can be demolition, subversion, deception, acquisition of trust, unwarranted surprise attacks on enemies or friends, as well as many other areas of tings. That's why you need an expert when it comes to bad tings, and you've come to the right place. Bad Tings, LLC. has expertise in all of the aforementioned fields plus additional tings as well. There's really no limit to how many bad tings we can achieve, so you can feel confident that tings will be especially bad when you come to us at Bad Tings, LLC.{" "}
         </p>
       </section>
       <section

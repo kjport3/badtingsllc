@@ -4,8 +4,8 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Kenny Porterfield";
-export const siteTitle = "Kenny's Next.js Website";
+const name = "Bad Tings, LLC.";
+export const siteTitle = "Bad Tings, LLC.";
 
 export default function Layout({ children, home }) {
   return (
@@ -18,7 +18,7 @@ export default function Layout({ children, home }) {
         />
         <meta
           name="description"
-          content="Kenny Porterfield's website using Next.js and Vercel"
+          content="Bad Tings LLC.'s website using Next.js and Vercel"
         />
         <meta property="og:image" content="/images/nextjs-homepage.png" />
         <meta name="og:title" content={siteTitle} />
@@ -34,7 +34,7 @@ export default function Layout({ children, home }) {
         <div className="navItems">
           <ul>
             <li><Link href="/">Home</Link></li>
-            <li>Blog</li>
+            <li>Bad Tings</li>
             {/* <li>
                 Projects
               </li> */}
@@ -46,11 +46,10 @@ export default function Layout({ children, home }) {
           <header className={styles.homeHeader}>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/geego_peaking.HEIC"
               className={utilStyles.borderCircle}
-              height={144}
-              width={144}
-              padding={50}
+              height={300}
+              width={225}
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
