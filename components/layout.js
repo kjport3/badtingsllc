@@ -57,7 +57,7 @@ export default function Layout({ children, home }) {
         </>
       ) : (
         <>
-          <header className={styles.header}>
+          {/* <header className={styles.header}>
             <div>
               <h2 className={utilStyles.headingLgInline}>
                 <Link href="/">
@@ -77,7 +77,7 @@ export default function Layout({ children, home }) {
                 </a>
               </Link>
             </div>
-          </header>
+          </header> */}
         </>
       )}
 
