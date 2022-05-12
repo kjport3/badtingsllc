@@ -34,7 +34,7 @@ export default function Layout({ children, home }) {
         <div className="navItems">
           <ul>
             <li><Link href="/">Home</Link></li>
-            <li>Bad Tings</li>
+            <li>Bad Tings, LLC.</li>
             {/* <li>
                 Projects
               </li> */}
@@ -49,7 +49,7 @@ export default function Layout({ children, home }) {
               src="/images/geego_peaking.HEIC"
               className={utilStyles.borderCircle}
               height={300}
-              width={225}
+              width={300}
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
