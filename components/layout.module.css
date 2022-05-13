@@ -21,3 +21,9 @@
 .backToHome {
   margin: 3rem 0 0;
 }
+
+@media (max-width: 768px) {
+  .homeHeader {
+    padding-top: 120px;
+  }
+}
