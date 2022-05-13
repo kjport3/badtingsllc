@@ -90,6 +90,9 @@
     height: auto;
     margin-bottom:20px;
   }
+  .imageContainer {
+    padding-top: 100px;
+  }
 }
 
 .lightText {
